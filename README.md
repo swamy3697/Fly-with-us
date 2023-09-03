@@ -1,11 +1,10 @@
 # Fly-with-us
 
 # Real-Time Flight Information Dashboard
+![Flight dashboard](https://github.com/swamy3697/Fly-with-us/assets/85001141/bdada142-fc32-4146-b0cf-46876650eb97)
 
-![Flight Dashboard](https://github.com/swamy3697/for-ReadMe-Files/blob/main/dashboard.png)
 
-
-![Flight Status](https://github.com/swamy3697/for-ReadMe-Files/blob/main/info.png)
+![Flight Status](https://github-production-user-asset-6210df.s3.amazonaws.com/85001141/265259469-1e6e90ae-4760-4c41-92d2-41ade405a319.png)
 
 ## Overview
 
