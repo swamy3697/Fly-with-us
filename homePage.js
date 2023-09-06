@@ -117,7 +117,7 @@ function setContent(apiResponse,index)
 $.ajax({
   url: 'https://api.aviationstack.com/v1/flights',
   data: {
-    access_key: '63b029caf83df2fd724743c4c8a68ab4'
+    access_key: '54004886ee4d254b8867b819ba5924f4'
     
   },
   dataType: 'json',
