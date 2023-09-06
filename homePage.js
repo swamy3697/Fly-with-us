@@ -1,5 +1,6 @@
 var globslIndex = 0;
 var response = null;
+console.log("webpage started");
 
 
 function setContent(apiResponse,index)
@@ -125,6 +126,7 @@ $.ajax({
     response=api_Response;
 
     alert("Response found");
+       console.log("found");
     setContent(api_Response,globslIndex)
 
    }
